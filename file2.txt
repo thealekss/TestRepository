@@ -1,3 +1,4 @@
 Good Bye!!!
 Some other line 
 Line from User2
+New line from user 1 (rebase lesson)
